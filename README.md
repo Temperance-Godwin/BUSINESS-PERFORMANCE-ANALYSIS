@@ -1,5 +1,5 @@
 ## INTRODUCTION
-
+![lol](https://github.com/Temperance-Godwin/BUSINESS-PERFORMANCE-ANALYSIS/blob/main/bpa.png)
 In 2020, P-Roe Company, a mid-sized consumer electronics and home goods retailer, launched a major digital transformation initiative. Facing the pressures of the COVID-19 pandemic, the company expanded its e-commerce footprint, diversified its product offerings, and extended its reach to over 30 states and 72 cities across the U.S.
 By 2022, P-Roe Company had achieved strong growth-peaking in customer acquisition, revenue, and product sales. However, 2023 saw an unexpected decline in all major performance indicators. Customer engagement dropped, revenue plunged by over 60%, and several high-selling products were returning negative profits.
 
