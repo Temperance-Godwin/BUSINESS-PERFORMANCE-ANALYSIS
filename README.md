@@ -6,18 +6,11 @@ This decline raised serious concerns among executives: Was this a temporary dip,
 As the Business Intelligence Analyst assigned to this project, my role was to conduct a thorough analysis of the company’s performance data from 2020 to 2023. I was responsible for identifying root causes of the recent downturn and recommending strategies to reverse the negative trends and boost future performance.
 This report consolidates the findings from that analysis, providing a comprehensive view of P-Roe’s current position and a data-driven roadmap forward.
 
-## PROBLEM STATEMENT
+## PROBLEM STATEMENTS
 1. Revenue Decline in 2023: Why did the total revenue sharply decline after peaking in 2022?
 2. Customer Engagement Drop: What led to the decline in customer numbers in 2023 after consistent growth in prior years?
 3. Profitability Issues: Why are many products being sold at a loss despite high sales volumes?
 4. Geographic Dependence: What are the risks of relying heavily on a few cities for the majority of customers and revenue?
-
-## OBJECTIVES
-
-1. Identify key factors driving customer churn.
-2. Build an accurate predictive model for customer churn.
-3. Develop targeted, actionable strategies to reduce churn.
-4. Visualize insights through interactive dashboards for stakeholders.
 
 ## SKILLS DEMONSTRATED
 1. Data Cleaning and Preparation
