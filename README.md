@@ -40,21 +40,18 @@ The following cleaning procedures were applied:
 
 ## DATA VISUALIZATIONS
 
-1. Customer & Revenue Overview
+1. Customer Analysis
 
-![Customer & Revenue Insights](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Customer%20%26%20Revenue%20Insights.png)
+![Customer Analysis](https://github.com/Temperance-Godwin/BUSINESS-PERFORMANCE-ANALYSIS/blob/main/Customer%20Analysis.png)
 
-2. Churn Analysis.
+2. Product Analysis.
 
-![Churn Analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Analysis.png)
+![Product Analysis](https://github.com/Temperance-Godwin/BUSINESS-PERFORMANCE-ANALYSIS/blob/main/Product%20Analysis.png)
 
-3. Churn Prediction Analysis.
+3. Sales Analysis
 
-![Churn prediction](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Prediction.png)
+![Sales Analysis](https://github.com/Temperance-Godwin/BUSINESS-PERFORMANCE-ANALYSIS/blob/main/Sales%20Analysis.png)
 
-## RECOMMENDATIONS AND INSIGHTS
-
-![Recommendations](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Recommendations.png)
 
 To view the full report, [click here](https://app.powerbi.com/view?r=eyJrIjoiYzlhOTBmNGEtYWNjYi00NmQ3LTk4Y2MtNTMzYTFiYzRmZmVhIiwidCI6Ijg0ZGZiOGY5LWYzMTItNDk1NC05ZTk5LWYzZjcxMTgzZDZmMSJ9)
 
