@@ -2,7 +2,9 @@
 
 In 2020, P-Roe Company, a mid-sized consumer electronics and home goods retailer, launched a major digital transformation initiative. Facing the pressures of the COVID-19 pandemic, the company expanded its e-commerce footprint, diversified its product offerings, and extended its reach to over 30 states and 72 cities across the U.S.
 By 2022, P-Roe Company had achieved strong growth-peaking in customer acquisition, revenue, and product sales. However, 2023 saw an unexpected decline in all major performance indicators. Customer engagement dropped, revenue plunged by over 60%, and several high-selling products were returning negative profits.
+
 This decline raised serious concerns among executives: Was this a temporary dip, or a sign of strategic misalignment?
+
 As the Business Intelligence Analyst assigned to this project, my role was to conduct a thorough analysis of the company’s performance data from 2020 to 2023. I was responsible for identifying root causes of the recent downturn and recommending strategies to reverse the negative trends and boost future performance.
 This report consolidates the findings from that analysis, providing a comprehensive view of P-Roe’s current position and a data-driven roadmap forward.
 
